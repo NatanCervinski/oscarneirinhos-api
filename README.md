@@ -1,11 +1,12 @@
 ##  Como rodar com Docker
  ### Subindo o Ambiente 
  1. Na raiz do projeto, execute: 
- 2. ```bash
-	  docker-compose up --build
-	 ```
+ 2.
+```bash
+	docker-compose up --build
+```
 
-## Como rodar com localmente com uv
+## Como rodar localmente com uv
 ```
 $ curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
@@ -23,4 +24,3 @@ A API estará disponível em http://localhost:8000.
 A documentação em http://localhost:8000/docs.
 
 👍
-(eu acho)
