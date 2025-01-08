@@ -2,7 +2,7 @@
  ### Subindo o Ambiente 
  1. Na raiz do projeto, execute: 
 ```bash
-	docker-compose up --build
+docker-compose up --build
 ```
 
 ## Como rodar localmente com uv
