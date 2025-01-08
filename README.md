@@ -1,7 +1,6 @@
 ##  Como rodar com Docker
  ### Subindo o Ambiente 
  1. Na raiz do projeto, execute: 
- 2.
 ```bash
 	docker-compose up --build
 ```
